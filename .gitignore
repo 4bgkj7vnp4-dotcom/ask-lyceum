@@ -2,3 +2,6 @@ Ai-project/
 .env
 
 .vscode/
+docs/
+index.json
+index_progress.json
